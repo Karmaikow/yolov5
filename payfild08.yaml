@@ -1,0 +1,5 @@
+train: /home/facepe/ragniak/dataset/pay_fild08/images/train  # Caminho para as imagens de treinamento
+val: /home/facepe/ragniak/dataset/pay_fild08/images/val    # Caminho para as imagens de validação
+
+nc: 4  # Número de classes
+names: ['esporo', 'rabo', 'cobra', 'planta']  # Nomes das suas classes
